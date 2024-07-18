@@ -2,6 +2,8 @@ Sistema BackEnd de uma barbearia com sistema de assinatura PREMIUM.
 
 Tecnologias: NodeJS, Typescript, Express, prisma, JWT.
 
+Instalação: yarn install
+
 Inicialização : yarn dev
 
 Banco de dados: PostgresSQL
